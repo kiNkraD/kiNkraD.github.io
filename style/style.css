@@ -7,3 +7,7 @@ main {
     text-align: center;
     border: 1px ridge tomato;
 }
+
+body{
+    background-image: radial-gradient(pink, rgb(240, 108, 108)); 
+}
