@@ -1,0 +1,9 @@
+main {
+    background-image: url(../../_img/embossed-diamond.png); 
+}
+
+.title{
+    padding: auto;
+    text-align: center;
+    border: 1px ridge tomato;
+}
