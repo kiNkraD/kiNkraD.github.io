@@ -6,6 +6,7 @@ main {
 .title{
     padding: auto;
     text-align: center;
+    border: 1px ridge tomato;
 }
 
 body{
